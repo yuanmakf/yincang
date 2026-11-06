@@ -1,0 +1,4 @@
+*.idsig
+*.apk.idsig
+__pycache__/
+*.pyc
